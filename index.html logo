@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Get Professional Logo Design</title>
+
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+}
+
+.header {
+  background: linear-gradient(135deg, #000, #333);
+  color: white;
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.header h1 {
+  font-size: 36px;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 15px 30px;
+  background: #28a745;
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  border-radius: 6px;
+}
+
+.section {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.card {
+  background: white;
+  margin: 15px auto;
+  padding: 20px;
+  max-width: 300px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.footer {
+  background: #111;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="header">
+  <h1>🎨 Get a Stunning Logo for Your Business</h1>
+  <p>Professional | Affordable | Fast Delivery</p>
+  <a class="btn" href="YOUR_AFFILIATE_LINK">🚀 Get Your Logo Now</a>
+</div>
+
+<div class="section">
+  <h2>🔥 Why Choose Fiverr?</h2>
+
+  <div class="card">✔ 1000+ Professional Designers</div>
+  <div class="card">✔ Affordable Pricing</div>
+  <div class="card">✔ Fast Delivery</div>
+</div>
+
+<div class="section">
+  <h2>⭐ Trusted Worldwide</h2>
+  <p>Millions of businesses trust Fiverr for quality services.</p>
+</div>
+
+<div class="section">
+  <h2>⚡ Limited Time Offer</h2>
+  <p>Get your logo today and grow your brand fast!</p>
+  <a class="btn" href="https://go.fiverr.com/visit/?bta=469468&brand=logomaker
+">💰 Start Now</a>
+</div>
+
+<div class="footer">
+  <p>© 2026 Your Name | Affiliate Project</p>
+</div>
+
+</body>
+</html>
